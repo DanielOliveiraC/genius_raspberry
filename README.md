@@ -1,16 +1,16 @@
-#  Genius para Raspberry Pi Pico W 
+# Genius para Raspberry Pi Pico W <img src="https://github.com/user-attachments/assets/03013913-1149-4ae5-9c10-378c22b11763" width="40"></img>
 Este projeto é uma implementação do clássico jogo Genius (também conhecido como Simon) para o Raspberry Pi Pico W. O jogo desafia a
 memória do jogador, que deve repetir uma sequência de cores e sons gerada aleatoriamente. A cada nível, a sequência aumenta, tornando o jogo mais difícil.
 Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzir a sequência aleatória de cada uma das rodadas! 
 
-## Componentes Utilizados 🛠️
+## Componentes Utilizados <img src="https://github.com/user-attachments/assets/6e97c3dd-0d8c-4a28-872a-81dd4c81e9bd" width="40"></img> 
 - Placa BitDogLab (equipada com Raspberry Pi Pico W: Microcontrolador principal).
 - Matriz de LEDs 5x5: Para exibir os resultados (errado ou correto)
 - Buzzers: Para gerar os tons à cada botão correspondente.
 - Botões: Para a interação do jogador.
 - Display OLED SSD1306 (opcional): Para exibir informações como o level atual.
 
-## Funcionalidades do Jogo 🎮
+## Funcionalidades do Jogo <img src="https://github.com/user-attachments/assets/d9818565-10d8-4555-874a-46773732866f" width="40"></img> 
 
 #### 1. Geração de Sequência:
   - O jogo gera uma sequência aleatória de sons.
@@ -29,7 +29,7 @@ Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzi
 #### 5. Vitória:
 - A cada nível concluído com sucesso, o jogo exibe uma animação de vitória e avança para o próximo nível.
 
-## Como Compilar e Executar 🚀
+## Como Compilar e Executar <img src="https://github.com/user-attachments/assets/602d7534-e8cc-48f0-8690-d66580b68210" width="40"></img> 
 
 ### Pré-requisitos
 - Ferramentas de Desenvolvimento:
@@ -60,7 +60,7 @@ Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzi
    cp genius-pico-w.uf2 /media/seu-usuario/RPI-RP2/
   ```
 
-## Configuração dos Pinos 
+## Configuração dos Pinos <img src="https://github.com/user-attachments/assets/4bf5420f-6c61-426e-b869-d695d575b9be" width="40"></img>
 |     | Componentes              | GPIO                                           |
 | --- | ------------------------ | ---------------------------------------------- |
 | 1   | Display OLED             | A-GPIO14<br>SCL-GPIO15                         |
@@ -68,7 +68,7 @@ Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzi
 | 3   | Buzzer                   | GPIO10<br>GPIO21                               |
 | 4   | Matriz de LEDs Coloridos | GPIO7, 5x5                                     |
 
-## Como Jogar 🕹️
+##  Como Jogar <img src="https://github.com/user-attachments/assets/0a3b23c0-7b92-410b-9c41-2cd3e9980f54" width="40"></img> 
 #### Inicialização:
 - Ao ligar o jogo, a matriz de LEDs exibirá uma animação de tutorial.
 - O jogo começará automaticamente após o tutorial.
