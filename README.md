@@ -83,3 +83,7 @@ Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzi
 
 #### Vitória:
 - A cada nível concluído, o jogo exibirá uma animação de vitória e avançará para o próximo nível.
+
+## Demonstração <img src="https://github.com/user-attachments/assets/b880eec2-464d-48a9-8f4b-db69884e587c" width="40"></img> 
+
+
