@@ -4,8 +4,7 @@ memória do jogador, que deve repetir uma sequência de cores e sons gerada alea
 Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzir a sequência aleatória de cada uma das rodadas! 
 
 ## Componentes Utilizados 🛠️
-
-- Raspberry Pi Pico W: Microcontrolador principal.
+- Placa BitDogLab (equipada com Raspberry Pi Pico W: Microcontrolador principal).
 - Matriz de LEDs 5x5: Para exibir os resultados (errado ou correto)
 - Buzzers: Para gerar os tons à cada botão correspondente.
 - Botões: Para a interação do jogador.
