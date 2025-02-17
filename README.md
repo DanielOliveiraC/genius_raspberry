@@ -86,4 +86,5 @@ Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzi
 
 ## Demonstração <img src="https://github.com/user-attachments/assets/b880eec2-464d-48a9-8f4b-db69884e587c" width="40"></img> 
 
+Assista ao vídeo do projeto no YouTube: [Clique aqui](https://www.youtube.com/watch?v=SEU_ID_DO_VIDEO](https://www.youtube.com/watch?v=wu3_sKCZTDc)
 
