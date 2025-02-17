@@ -91,8 +91,6 @@ Assista ao vídeo completo do projeto no YouTube: [Clique aqui](https://www.yout
 Ou veja a prévia abaixo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=wu3_sKCZTDc&t=2s">
-    <img src="https://www.youtube.com/watch?v=wu3_sKCZTDc&t=2s.jpg" alt="Vídeo do Projeto" width="560" height="315">
-  </a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wu3_sKCZTDc?si=vA3OkTaFoU2EeGxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
