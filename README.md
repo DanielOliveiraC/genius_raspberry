@@ -86,9 +86,13 @@ Contudo, neste projeto, o jagador deve se atentar aos sons e conseguir reproduzi
 
 ## Demonstração <img src="https://github.com/user-attachments/assets/b880eec2-464d-48a9-8f4b-db69884e587c" width="40"></img> 
 
+Assista ao vídeo completo do projeto no YouTube: [Clique aqui](https://www.youtube.com/watch?v=wu3_sKCZTDc&t=2s)
+
+Ou veja a prévia abaixo:
+
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=wu3_sKCZTDc">
-    <img src="https://www.youtube.com/watch?v=wu3_sKCZTDc.jpg" alt="Vídeo do Projeto" width="560" height="315">
+  <a href="https://www.youtube.com/watch?v=wu3_sKCZTDc&t=2s">
+    <img src="https://www.youtube.com/watch?v=wu3_sKCZTDc&t=2s.jpg" alt="Vídeo do Projeto" width="560" height="315">
   </a>
 </p>
 
