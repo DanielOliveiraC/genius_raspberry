@@ -327,6 +327,12 @@ int main() {
     initialize();
     npClear();
     npWrite();
+    sleep_ms(2000);
+
+    ssd1306_draw_string(ssd, 5, 16, "Prepare-se!");
+    render_on_display(ssd, &frame_area);
+    sleep_ms(2000);
+    
     // Main game loop
     while (true) {
         memset(ssd, 0, ssd1306_buffer_length);
